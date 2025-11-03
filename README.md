@@ -18,5 +18,6 @@ Data Scientist and AI Engineer
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/Macbook-Pro_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_4600H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-### My Recent AI Projects
-<br /> [img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.datategy.net%2F2023%2F01%2F24%2Fbuilding-a-flight-delay-prediction-model-on-papai%2F&psig=AOvVaw2FepaRk9RcEcVAl6FCBe-t&ust=1762235786272000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMjTz4Wm1ZADFQAAAAAdAAAAABAE" />](https://www.linkedin.com/in/sridharan-rajagopal/)
+### Artificial Intelligence Projects
+<br /> [img src="![JPPY2017](https://github.com/user-attachments/assets/006a9496-2655-4748-b6b1-b6157be4fdc9)
+" />](https://www.linkedin.com/in/sridharan-rajagopal/)
